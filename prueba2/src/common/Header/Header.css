@@ -1,0 +1,12 @@
+   
+.headerDessign {
+
+    height: 10vh;
+    width: 100vw;
+
+    background-color: rgb(134, 167, 189);
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
